@@ -1,12 +1,11 @@
 public class Variabel {
     public static void main(String[] args) {
-        // Deklarasi variabel dengan tipe data yang sesuai
         String namaLengkap = "Mochamad Radithya Nugraha";
         String tempatLahir = "Bogor";
         String tanggalLahir = "13 Maret 2007";
         char jenisKelamin = 'L';                
         String alamat = "Jl.Cinangka RT 05/02, Bogor";
-        String noHp = "082297044873";            // String agg
+        String noHp = "082297044873";            // 
         long penghasilan = 5000000L;             
 
         System.out.println("Assalamu'alaikum");
