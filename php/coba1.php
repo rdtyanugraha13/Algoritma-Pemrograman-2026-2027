@@ -1,6 +1,6 @@
-<?php $nim = "I.110186"; 
+<?php $nim = "I.2610150"; 
 $nama = 'Mochamad Raditya Nugraha'; 
-$umur = 35; $nilai = 92.75; 
+$umur = 19; $nilai = 92.75; 
 $status = TRUE; 
 
 echo  "NIM   : " . $nim . "<br>"; 
